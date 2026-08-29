@@ -48,3 +48,5 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
     </article>
   );
 }
+
+/* elara-stage-151 */
