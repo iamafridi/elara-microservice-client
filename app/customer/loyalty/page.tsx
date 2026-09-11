@@ -150,3 +150,5 @@ export default function CustomerLoyaltyPage() {
     </div>
   );
 }
+
+/* elara-stage-169 */
