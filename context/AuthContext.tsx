@@ -230,3 +230,5 @@ export const ProtectedRoute: React.FC<ProtectedRouteProps> = ({
 
   return <>{children}</>;
 };
+
+/* elara-stage-179 */
