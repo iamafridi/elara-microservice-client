@@ -142,3 +142,4 @@ For testing cross-role workflows, the following developer credentials can be use
 - **Routes**: 157 statically optimized App Router pages.
 - **Type Checking**: Clean TypeScript compilation with zero lint warnings.
 - **Responsive Layout**: Designed for mobile browsers (390px viewport) up to high-resolution desktop terminals (1920px).
+<!-- elara-stage-181 -->
