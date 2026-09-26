@@ -35,3 +35,5 @@ export default function PrivacyPage() {
     </section>
   );
 }
+
+/* elara-stage-191 */
