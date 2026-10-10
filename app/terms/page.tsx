@@ -35,3 +35,5 @@ export default function TermsPage() {
     </section>
   );
 }
+
+/* elara-stage-211 */
