@@ -92,6 +92,17 @@ export default function Footer() {
         </div>
       </div>
 
-      </footer>
+      {/* Big Responsive ELARA Brand Mark */}
+      <div className="relative w-full overflow-hidden select-none border-t border-ink/10 pt-8 pb-6 sm:pt-12 sm:pb-10 lg:pt-14 lg:pb-12 flex justify-center items-center">
+        <div className="w-full flex items-center justify-center px-4 sm:px-6 lg:px-8 overflow-hidden">
+          <span
+            className="font-display font-black uppercase tracking-tighter text-center whitespace-nowrap block text-[clamp(3.2rem,19.5vw,23rem)] leading-[0.8] bg-gradient-to-b from-ink via-ink/85 to-ink/60 bg-clip-text text-transparent transition-all duration-700 hover:from-primary hover:via-emerald-700 hover:to-emerald-900 cursor-default"
+            style={{ letterSpacing: "-0.04em" }}
+          >
+            ELARA
+          </span>
+        </div>
+      </div>
+    </footer>
   );
 }
