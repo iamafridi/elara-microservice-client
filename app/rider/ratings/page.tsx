@@ -186,5 +186,3 @@ export default function RiderRatingsPage() {
     </div>
   );
 }
-
-/* elara-stage-209 */

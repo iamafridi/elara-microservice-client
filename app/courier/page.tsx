@@ -846,5 +846,3 @@ export default function CourierPage() {
     </div>
   );
 }
-
-/* elara-stage-185 */

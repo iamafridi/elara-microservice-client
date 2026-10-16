@@ -271,5 +271,3 @@ export default function MerchantSupportPage() {
     </div>
   );
 }
-
-/* elara-stage-207 */

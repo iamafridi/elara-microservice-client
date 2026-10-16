@@ -138,5 +138,3 @@ export default function AdminFinancePage() {
     </div>
   );
 }
-
-/* elara-stage-215 */

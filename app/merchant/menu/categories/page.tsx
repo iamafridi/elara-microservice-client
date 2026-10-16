@@ -159,5 +159,3 @@ export default function MerchantCategoriesPage() {
     </div>
   );
 }
-
-/* elara-stage-156 */

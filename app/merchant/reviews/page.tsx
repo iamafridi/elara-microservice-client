@@ -400,5 +400,3 @@ export default function MerchantReviewsPage() {
     </div>
   );
 }
-
-/* elara-stage-190 */

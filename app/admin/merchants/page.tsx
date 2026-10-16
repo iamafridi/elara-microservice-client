@@ -122,5 +122,3 @@ export default function AdminMerchantsPage() {
     </div>
   );
 }
-
-/* elara-stage-117 */

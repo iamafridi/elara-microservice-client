@@ -221,5 +221,3 @@ export default function AddProductPage() {
     </div>
   );
 }
-
-/* elara-stage-189 */

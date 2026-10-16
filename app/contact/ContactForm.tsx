@@ -45,5 +45,3 @@ export default function ContactForm() {
     </form>
   );
 }
-
-/* elara-stage-201 */

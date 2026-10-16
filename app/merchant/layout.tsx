@@ -303,5 +303,3 @@ function MerchantShell({ children }: { children: React.ReactNode }) {
     </div>
   );
 }
-
-/* elara-stage-205 */

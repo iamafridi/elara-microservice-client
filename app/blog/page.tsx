@@ -37,5 +37,3 @@ export default function BlogPage() {
     </section>
   );
 }
-
-/* elara-stage-184 */

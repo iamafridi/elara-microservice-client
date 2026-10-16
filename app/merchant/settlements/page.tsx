@@ -171,5 +171,3 @@ export default function MerchantSettlementsPage() {
     </div>
   );
 }
-
-/* elara-stage-141 */

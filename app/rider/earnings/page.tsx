@@ -113,5 +113,3 @@ export default function RiderEarningsPage() {
     </div>
   );
 }
-
-/* elara-stage-208 */

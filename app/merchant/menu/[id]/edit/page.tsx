@@ -140,5 +140,3 @@ export default function EditProductPage() {
     </div>
   );
 }
-
-/* elara-stage-123 */

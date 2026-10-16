@@ -282,5 +282,3 @@ export default function FoodDeliveryPage() {
     </div>
   );
 }
-
-/* elara-stage-171 */

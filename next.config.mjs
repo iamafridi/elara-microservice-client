@@ -8,5 +8,3 @@ const nextConfig = {
 };
 
 export default nextConfig;
-
-/* elara-stage-180 */

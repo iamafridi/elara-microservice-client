@@ -428,5 +428,3 @@ export default function CartPage() {
     </div>
   );
 }
-
-/* elara-stage-217 */

@@ -278,5 +278,3 @@ export default function OrderDetailPage({ params }: { params: { id: string } }) 
     </div>
   );
 }
-
-/* elara-stage-153 */

@@ -259,5 +259,3 @@ export default function CustomerRefundsPage() {
     </div>
   );
 }
-
-/* elara-stage-170 */

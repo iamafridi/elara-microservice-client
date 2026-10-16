@@ -323,5 +323,3 @@ export default function AdminCategoriesPage() {
     </div>
   );
 }
-
-/* elara-stage-116 */

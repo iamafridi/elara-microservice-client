@@ -7,5 +7,3 @@ const config = {
 };
 
 export default config;
-
-/* elara-stage-131 */

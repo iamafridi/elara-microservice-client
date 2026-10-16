@@ -58,5 +58,3 @@ export default function EntryPage({ cfg }: { cfg: EntryConfig }) {
     </>
   );
 }
-
-/* elara-stage-195 */

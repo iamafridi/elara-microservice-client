@@ -420,5 +420,3 @@ export default function AboutShowcasePage() {
     </div>
   );
 }
-
-/* elara-stage-165 */

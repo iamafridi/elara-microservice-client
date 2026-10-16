@@ -74,5 +74,3 @@ export const POSTS: Post[] = [
     ],
   },
 ];
-
-/* elara-stage-147 */

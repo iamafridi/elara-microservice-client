@@ -236,5 +236,3 @@ export default function OrderInvoicePage({ params }: { params: { id: string } })
     </div>
   );
 }
-
-/* elara-stage-120 */

@@ -99,5 +99,3 @@ export default function ElaraLogo({
 
   return content;
 }
-
-/* elara-stage-162 */

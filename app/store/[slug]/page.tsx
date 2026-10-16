@@ -182,5 +182,3 @@ export default function StoreFrontPage() {
     </div>
   );
 }
-
-/* elara-stage-193 */

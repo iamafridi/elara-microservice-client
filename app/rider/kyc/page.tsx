@@ -258,5 +258,3 @@ export default function RiderKycPage() {
     </div>
   );
 }
-
-/* elara-stage-192 */

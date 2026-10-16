@@ -42,5 +42,3 @@ export default function CookiesPage() {
     </section>
   );
 }
-
-/* elara-stage-152 */

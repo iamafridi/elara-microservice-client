@@ -213,5 +213,3 @@ export function useCart() {
   }
   return context;
 }
-
-/* elara-stage-212 */
